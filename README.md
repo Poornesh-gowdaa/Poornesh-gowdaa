@@ -51,14 +51,9 @@ A **comprehensive ERP system** designed to streamline **training, assessments, a
 ✔️ Integrated **APIs** for seamless data exchange.  
 
 **🛠 Tech Stack:**  
-React.js | Node.js | PostgreSQL  
-
+React.js | Node.js | PostgreSQL | Prime-React | Version-Control | Swagger | Postman-Tool
 ---
 
-## **📚 What I'm Learning**  
-🚀 **Exploring:** TypeScript, AWS, Microservices, GraphQL  
-
----
 
 ## **🌟 My Skillset**  
 <p>
