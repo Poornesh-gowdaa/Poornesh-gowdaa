@@ -1,7 +1,3 @@
-Here’s your updated **GitHub README** to reflect that you're currently looking for opportunities while keeping it engaging and professional:  
-
----
-
 # **Hey there! 👋 I'm Poornesh**  
 ### **Transforming Ideas into Amazing Web Experiences ✨**  
 
@@ -10,7 +6,7 @@ Here’s your updated **GitHub README** to reflect that you're currently looking
 </p>
 
 <p> 
-  <i>Welcome to my GitHub!</i> 🎉 I'm a passionate **Software Engineer** with **1.6 years of experience** in web development. I’ve worked on **ERP Systems, India 1 ATM, and Thalapakatti** as a **Frontend Developer** at **Grassroots Solutions & Services Pvt. Ltd.**
+  <i>Welcome to my GitHub!</i> 🎉 I'm a passionate Software Engineer with 1.6 years of experience in web development. I’ve worked on ERP Systems, India 1 ATM, and Thalapakatti as a Frontend Developer at Grassroots Solutions & Services Pvt. Ltd.
 </p>
 
 - 🔍 **Looking for my next opportunity** in web development!  
@@ -53,4 +49,4 @@ Here’s your updated **GitHub README** to reflect that you're currently looking
   <img src="https://github-readme-stats.vercel.app/api?username=poornesh-gowdaa&show_icons=true&locale=en" alt="poornesh-gowdaa"/>
 </p>
 
----
+
