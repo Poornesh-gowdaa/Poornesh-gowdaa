@@ -6,7 +6,7 @@
 </p>
 
 <p> 
-  <i>Welcome to my GitHub!</i> 🎉 I'm a passionate software engineer who loves building solutions that make a real impact. I currently work on exciting projects like ERP Systems and India 1 ATM at Grassroots Solutions & Services Pvt. Ltd.
+  <i>Welcome to my GitHub!</i> 🎉 I love building solutions that make a real impact! Worked on projects like ERP Systems, India 1 ATM, and Thalapakatti as a Frontend Developer at Grassroots Solutions & Services Pvt. Ltd.
 </p>
 
 - 🔭 **Currently working on:** Building robust **ERP Systems** and integrating cutting-edge features in **India 1 ATM**.
