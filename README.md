@@ -1,5 +1,5 @@
 # **Hey there! 👋 I'm Poornesh**  
-### **Building Scalable & Engaging Web Applications with React & Node.js 🚀**  
+### **Building Scalable & Engaging Web Applications with React 🚀**  
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=poornesh-gowdaa&label=Profile%20views&color=0e75b6&style=flat" alt="poornesh-gowdaa" />
