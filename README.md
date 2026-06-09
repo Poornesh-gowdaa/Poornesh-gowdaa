@@ -119,19 +119,33 @@ React.js | Node.js | PostgreSQL | MongoDB | PrimeReact | Swagger | Postman
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
+<!-- 🏆 Trophies -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poornesh-gowdaa&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=poornesh-gowdaa&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" alt="Trophies"/>
 </p>
 
+<!-- 🔥 Streak + 📈 Stats side by side -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=poornesh-gowdaa&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poornesh-gowdaa&theme=radical&hide_border=true" height="180" alt="Streak Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=poornesh-gowdaa&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="GitHub Stats"/>
 </p>
 
+<!-- 🗣️ Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poornesh-gowdaa&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornesh-gowdaa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
+
+<!-- 📉 Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poornesh-gowdaa&theme=redical&hide_border=true&area=true" alt="Activity Graph"/>
+</p>
+
+---
 
 ---
 
